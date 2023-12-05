@@ -1,4 +1,4 @@
-ECE-GY-9163 Lab 3
+ECE-GY-9163 Lab 3 - Backdoor attack & Pruning defence
 -
 
 
@@ -31,3 +31,10 @@ Steps to run code:
     - bd_test = 'bd/bd_test.h5'
 3. Run Lab3.ipynb file.
 
+Evaluation call:
+-
+python3 eval.py cl/test.h5 bd/bd_test.h5 model_2.h5
+
+python3 eval.py cl/test.h5 bd/bd_test.h5 model_4.h5
+
+python3 eval.py cl/test.h5 bd/bd_test.h5 model_10.h5
