@@ -1,4 +1,4 @@
-ECE-GY-9163 Lab 3 - Backdoor attack & Pruning defence
+ECE-GY-9163 Lab 4 - Backdoor attack & Pruning defence
 -
 File structure (expected):
 
@@ -26,7 +26,7 @@ Steps to run code (Descending order):
     - bad_test = 'bd/bd_test.h5'
     - clean_test = 'cl/test.h5'
     - bd_test = 'bd/bd_test.h5'
-3. Run Lab3.ipynb file.
+3. Run lab4.ipynb file.
 
 Evaluation call:
 -
@@ -51,7 +51,7 @@ Steps to run code (Default/ascending order):
     - bad_test = 'bd/bd_test.h5'
     - clean_test = 'cl/test.h5'
     - bd_test = 'bd/bd_test.h5'
-3. Run lab3-extra-asc.ipynb file.
+3. Run lab4-extra-asc.ipynb file.
 
 Evaluation call:
 -
