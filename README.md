@@ -1,6 +1,6 @@
 ECE-GY-9163 Lab 4 - Backdoor attack & Pruning defence
 -
-File structure (expected):
+File structure (expected setup):
 
 ```
 bd
